@@ -1,0 +1,5 @@
+{
+  "description": "Place studio-recorded .mp3, .wav, or .ogg post-match Victory and Defeat voice lines into public/voices/ and list filenames by character ID below (e.g. \"dumbledore\": \"/voices/dumbledore_victory.mp3\").",
+  "victoryVoices": {},
+  "defeatVoices": {}
+}
